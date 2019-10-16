@@ -14,6 +14,9 @@
  Date: 27/09/2019 09:44:25
 */
 
+CREATE DATABASE IF NOT EXISTS workshopdb;
+USE workshopdb;
+
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
